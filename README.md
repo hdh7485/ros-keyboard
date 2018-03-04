@@ -8,4 +8,6 @@ sudo apt-get install libsdl1.2-dev
 
 
 # Topics
-keydown and ~keyup (keyboard/Key)
+## keyboard/Key
+- keydown
+- keyup 
